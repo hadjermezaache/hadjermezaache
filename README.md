@@ -3,13 +3,13 @@
 - **Programming Languages**: Python, SQL
 - **Data Visualization Tools**: Tableau, Power BI, Excel
 - **Data Manipulation**: Pandas, NumPy, Power Query,matplotlib.
-- **Databases**: mssSQL
+- **Databases**: SQL(MSSQL, Postgresql, MySQL)
 - **Other Tools**:Jupyter Notebooks,VStudio
 
 #### 📊 Projects
 
 #### 🎓 Education & Certifications
-- **master degree in corporate finance**, University 
+- **Master Degree in corporate finance**, University 
 
 #### 🌱 Interests
 - Exploring new data visualization techniques
