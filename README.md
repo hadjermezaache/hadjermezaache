@@ -7,7 +7,7 @@
 - **Other Tools**:Jupyter Notebooks,VStudio
 
 #### 📊 Projects
-
+**SQL Data Exploration Project: COVID-19 Analysis**:(https://github.com/hadjermezaache/portfolio-project/tree/main)
 #### 🎓 Education & Certifications
 - **Master Degree in corporate finance**, University 
 
